@@ -26,9 +26,6 @@
       Gaming,
       Cooking</b></dd>
 </dl>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://ironmanff.vercel.app)
-
 <div align="center">
     <h2>⛓️<i><b>Contact Me</b></i></h2>
 </div>
@@ -57,3 +54,8 @@
 ---
 
 ![Animation](https://raw.githubusercontent.com/IRON-M4N/IRON-M4N/output/github-contribution-grid-snake-dark.svg)
+
+</dl>
+<div align="center">
+    <h2>⚠️<i><b>𝙱𝙰𝙶𝚄𝚂 𝙰𝙻 𝙵𝙸𝚁𝙼𝙰𝙽𝙳𝙾</b></i></h2>
+</div>
